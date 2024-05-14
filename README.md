@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rayzhou4
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python and java
+Second year CS @ UBC
+
+Contact me through <rayzhou4@gmail.com> or [linkedin](https://www.linkedin.com/in/ray-zhou4/)
 
 <!---
 rayzhou4/rayzhou4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
