@@ -1,4 +1,4 @@
-SWE Intern @ Kubesphere | CS @ UBC
+CS @ UBC
 
 Contact me through <rayzhou4@gmail.com> or [linkedin](https://www.linkedin.com/in/ray-zhou4/)
 
